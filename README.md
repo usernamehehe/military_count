@@ -1,1 +1,1 @@
-# military_count
+Calculate ur days in military service.
